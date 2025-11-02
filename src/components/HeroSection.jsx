@@ -11,7 +11,7 @@ function HeroSection(){
                 <p className="hero-subtitle">Full Stack Developer (.Net+Angular)</p>
             </div>
             <div className="hero-img col-md-6 img-fluid text-center slide-up">
-                <img className='hero-photo' src="/images/dody (1).png" alt="Logo" width="150" />
+                <img className='hero-photo' src="/images/coding-female.png" alt="Logo" width="150" />
             </div>
         </div>
       </div>

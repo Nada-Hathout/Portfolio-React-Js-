@@ -9,20 +9,16 @@ import '@fortawesome/fontawesome-free/css/all.min.css';
 import Projects from './components/Projects'
 
 function App() {
-  const ClickMe=()=>{
-    alert( `${name}`)
-  }
-const name ='nada';
-const users=["nada","salma","zeze"];
-const isLogedIn=false;
+ 
+
 
   return (
     <Fragment>
       
   <div className='app-container'>
-        <HeroSection />
+       <HeroSection />
        <Skilles />
-       <Projectsjects />
+       <Projects />
        <Footer /> 
   </div>
     </Fragment>
